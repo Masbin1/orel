@@ -5599,6 +5599,13 @@ textarea.form-control-lg {
   border-left-color: #000;
 }
 
+.carousel .slide:nth-child(2) {
+  background-image: url(assets/img/portfolio/fullsize/1.jpg);
+}
+
+.carousel .slide:nth-child(3) {
+  background-image: url(assets/img/portfolio/fullsize/1.jpg);
+}
 .tooltip-inner {
   max-width: 200px;
   padding: 0.25rem 0.5rem;
@@ -7336,7 +7343,7 @@ textarea.form-control-lg {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #f4623a !important;
+  color: #ac3b61 !important;
 }
 
 .text-secondary {
